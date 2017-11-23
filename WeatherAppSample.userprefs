@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{4FA4F856-D7B4-4848-9561-7B458F19981D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherAppSample/ViewModel/WeatherViewModel.cs">
+    <Files>
+      <File FileName="iOS/ViewController.cs" Line="53" Column="35" />
+      <File FileName="Droid/MainActivity.cs" Line="39" Column="13" />
+      <File FileName="WeatherAppSample/ViewModel/WeatherViewModel.cs" Line="9" Column="37" />
+      <File FileName="WeatherAppSample/Services/WeatherService.cs" Line="5" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WeatherAppSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E8D8609D-BD82-4EB4-A344-28EBF78F90C6" />
+  <MonoDevelop.Ide.ItemProperties.WeatherAppSample.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>

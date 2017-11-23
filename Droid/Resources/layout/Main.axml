@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/tv_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="21sp"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:paddingTop="20dp"
+        android:paddingBottom="30dp" />
+    <ImageView
+        android:id="@+id/img_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sunny_cloudy"
+        android:paddingBottom="30dp"
+        android:scaleType="center"
+        android:layout_gravity="center" />
+    <TextView
+        android:id="@+id/tv_maxTemperature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="35sp"
+        android:textColor="@android:color/white"
+        android:textAlignment="center"
+        android:paddingBottom="20dp" />
+    <TextView
+        android:id="@+id/tv_minTemperature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="21sp"
+        android:textAlignment="center"
+        android:textColor="@android:color/white"
+        android:paddingBottom="30dp" />
+    <TextView
+        android:id="@+id/tv_city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="17sp"
+        android:textAlignment="center" />
+</LinearLayout>
